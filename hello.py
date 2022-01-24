@@ -1,5 +1,5 @@
 print("hello World!!!")
-print("hey Fardeen")
+print("I am Fardeen")
 a = 10 
 b = 5
 c = b*a

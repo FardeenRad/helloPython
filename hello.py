@@ -1,4 +1,4 @@
-print("hello World!!!")
+print("hello World!")
 print("I am Fardeen")
 a = 10 
 b = 5
